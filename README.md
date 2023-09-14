@@ -4,3 +4,8 @@ My replica of [foobar167's replica](https://colab.research.google.com/drive/1M6j
 of the [Image Processing with Python](https://datacarpentry.org/image-processing/) course by Datacarpentry.
 ![Dice](data/image_processing/dice_boxes.jpg)
 ![Leaf size](data/image_processing/leaf_size.jpg)
+
+# Image Segmentation
+[Image Segmentation model](https://www.kaggle.com/code/mmeshok/oxfordiiitpet) for OxfordIIITPet dataset,
+made with Torch using U-Net architecture. Homework for karpov.cources.
+![kaggle](data/OxfordIIItPet.png)
