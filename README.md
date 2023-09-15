@@ -9,3 +9,6 @@ of the [Image Processing with Python](https://datacarpentry.org/image-processing
 [Image Segmentation model](https://www.kaggle.com/code/mmeshok/oxfordiiitpet) for OxfordIIITPet dataset,
 made with Torch using U-Net architecture. Homework for karpov.cources.
 ![kaggle](data/OxfordIIItPet.png)
+
+# Decision Tree from scratch
+[DecisionTreeRegressor](https://github.com/mmeshok/for_resume/tree/main/decision_tree) written only using `python` and `numpy`.
