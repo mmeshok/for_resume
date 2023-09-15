@@ -21,7 +21,7 @@ Data is fethced from ClickHouse.
 | loan_payed    | Actual date of full repayment.      |
 
 
-Data was obtain with a [SQL-query](query.sql).
+Data was obtained with a [SQL-query](query.sql).
 
 Features:
 - Uses **weighted mse** as base error function.
