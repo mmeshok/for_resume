@@ -2,6 +2,7 @@
 **/.idea/
 **/.git/
 **/temp/
+**/.vscode/
 
 
 # Files to ignore for GIT
