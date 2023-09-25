@@ -4,6 +4,7 @@
 **/temp/
 **/.vscode/
 __pycache__/
+**/catboost_info/
 
 
 # Files to ignore for GIT
