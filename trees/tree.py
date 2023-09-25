@@ -30,10 +30,10 @@ class DecisionTreeRegressor:
 
         Args:
             X (np.ndarray): train data
-            y (np.ndarray): train target values
+            y (np.ndarray): target values
 
         Returns:
-            DecisionTreeRegressor: fitted tree
+            DecisionTreeRegressor: The fitted tree.
         """
 
         self.n_features_ = X.shape[1]
@@ -123,11 +123,11 @@ class DecisionTreeRegressor:
 
         Args:
             X (np.ndarray): shape (n_samples, n_features)
-                            The input samples.
+                            Input samples.
 
         Returns:
             np.ndarray: array of shape (n_samples,)
-                        The predicted values.
+                        Predicted values.
         """
 
         return np.array([self._predict_one_sample(x) for x in X])

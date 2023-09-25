@@ -31,3 +31,7 @@ Features:
 [DecisionTree file.](tree.py)
 
 [Notebook](decision_tree.ipynb) with data and predictions.
+
+# Gradient Boosting Regressor
+This is Gradient Boosting Regressor written using `sklearn.tree.DecisionTreeRegressor` and `numpy`.
+It uses the same data, as **'Decision Tree from scratch'**.
