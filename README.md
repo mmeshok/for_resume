@@ -17,4 +17,4 @@ made with Torch using U-Net architecture. Homework for karpov.cources.
 [Gradient Boosting Regressor](https://github.com/mmeshok/for_resume/tree/main/trees) written using `sklearn.tree.DecisionTreeRegressor` and `numpy`.
 
 # Dwarf Tavern
-Homework for ML Start (Interviews_6). Predict the probability of tavern client's default.
+[Homework](https://github.com/mmeshok/for_resume/tree/main/dwarf_tavern) for ML Start (Interviews_6). Predict the probability of tavern client's default.
