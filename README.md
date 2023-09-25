@@ -11,4 +11,7 @@ made with Torch using U-Net architecture. Homework for karpov.cources.
 ![kaggle](data/OxfordIIItPet.png)
 
 # Decision Tree from scratch
-[DecisionTreeRegressor](https://github.com/mmeshok/for_resume/tree/main/decision_tree) written only using `python` and `numpy`.
+[DecisionTreeRegressor](https://github.com/mmeshok/for_resume/tree/main/trees) written only using `python` and `numpy`.
+
+# Gradient Boosting Regressor
+[Gradient Boosting Regressor](https://github.com/mmeshok/for_resume/tree/main/trees) written using `sklearn.tree.DecisionTreeRegressor` and `numpy`.
